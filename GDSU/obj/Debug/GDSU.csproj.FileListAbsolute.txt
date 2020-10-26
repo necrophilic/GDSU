@@ -1,0 +1,11 @@
+C:\Users\Michael\source\repos\GDSU\GDSU\bin\Debug\GDSU.exe.config
+C:\Users\Michael\source\repos\GDSU\GDSU\bin\Debug\GDSU.exe
+C:\Users\Michael\source\repos\GDSU\GDSU\bin\Debug\GDSU.pdb
+C:\Users\Michael\source\repos\GDSU\GDSU\obj\Debug\GDSU.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\GDSU\GDSU\obj\Debug\GDSU.GDUSF.resources
+C:\Users\Michael\source\repos\GDSU\GDSU\obj\Debug\GDSU.Properties.Resources.resources
+C:\Users\Michael\source\repos\GDSU\GDSU\obj\Debug\GDSU.csproj.GenerateResource.cache
+C:\Users\Michael\source\repos\GDSU\GDSU\obj\Debug\GDSU.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\GDSU\GDSU\obj\Debug\GDSU.exe
+C:\Users\Michael\source\repos\GDSU\GDSU\obj\Debug\GDSU.pdb
+C:\Users\Michael\source\repos\GDSU\GDSU\obj\Debug\GDSU.csproj.Fody.CopyLocal.cache
